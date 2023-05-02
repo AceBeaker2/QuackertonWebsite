@@ -35,6 +35,8 @@ As a solo developer, the discord bot has been my passion project for a while, an
 *   Open-source
 *   Error reporting to end user
 *   Facial redo
+
+
 ### TODO
 - Improve code performance
   - Extract out code and remove reused bits
