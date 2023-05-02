@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<input type="checkbox" disabled checked />
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
