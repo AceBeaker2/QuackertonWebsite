@@ -17,12 +17,12 @@ As a solo developer, the discord bot has been my passion project for a while, an
 
 |        | Midjourney        | BlueWillow | QuackertonAI |
 |:-------------|:------------------|:------| :----------- |
-| Fast generation |<input type="checkbox" checked /> | <input type="checkbox"  checked /> | <input type="checkbox" checked /> |
-|Quality Images | <input type="checkbox"  checked />   | <input type="checkbox" />| <input type="checkbox"  checked /> |
-| Completely free| <input type="checkbox"  /> | <input type="checkbox" checked />|<input type="checkbox"  checked /> |
-|Sketchy hacked-together code| <input type="checkbox"  /> | <input type="checkbox"/>| <input type="checkbox"  checked />|
-|Uncensored and free |<input type="checkbox" /> |<input type="checkbox"/> |<input type="checkbox"  checked /> |
-|Facial Redo|<input type="checkbox"  /> |<input type="checkbox"  /> |<input type="checkbox"  checked /> |
+| Fast generation |✅ | ✅ | ✅|
+|Quality Images | ✅  | <input type="checkbox" />| ✅ |
+| Completely free| <input type="checkbox"  /> | ✅|✅ |
+|Sketchy hacked-together code| <input type="checkbox"  /> | ✅|
+|Uncensored and free |<input type="checkbox" /> |<input type="checkbox"/> |✅ |
+|Facial Redo|<input type="checkbox"  /> |<input type="checkbox"  /> |✅|
 
 ### Features
 *   Image captioning
