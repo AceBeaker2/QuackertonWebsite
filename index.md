@@ -52,7 +52,7 @@ As a solo developer, the discord bot has been my passion project for a while, an
 > Contract Folltrace#1337 on discord for any help
 
 > [**Terms Of Service**](./tos.html)
-> [**Priavy Policy**](./pp.html)
+> [**Privay Policy**](./pp.html)
 
 ![Man working on a glass jar](https://media.discordapp.net/attachments/1077363471617904650/1102991819991683082/f5988f6d-3a42-4842-9bd2-4c35ba744e8c_3.png?width=786&height=786)
 ![Nightclub person](https://media.discordapp.net/attachments/1077363471617904650/1098804010405867550/9148d10d-829e-42cc-8034-aa6967ebd922.png?width=856&height=856)
