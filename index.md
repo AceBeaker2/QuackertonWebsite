@@ -6,7 +6,7 @@ An AI image generation bot with over **80** machine-learning AI models built on 
 
 _A feature-rich async generation discord bot with image editing, enhancement, and generation, all in a free unlimited package with **NO** paid plans, with freedom explore an array of free open-source AI models._
 
-
+# Add the bot [here](https://top.gg/bot/1055984654743777392/invite)
 
 # Open source AI generations
 It's not like midjourney, but its close, and provides great images without needing any experience. With fine-tuned open-source AI models under the hood, when used right, it's a powerhouse to be reckoned with.
