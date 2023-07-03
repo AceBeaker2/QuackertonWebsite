@@ -49,7 +49,7 @@ As a solo developer, the discord bot has been my passion project for a while, an
     - better outpainting
     - fix /riff
     
-> Contract AceBeaker#6411 on discord for any help
+> Contract @ace_beaker on discord for any help
 
 > [**Terms Of Service**](./tos.html)
 > [**Privacy Policy**](./pp.html)
