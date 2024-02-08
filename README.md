@@ -1,8 +1,21 @@
+---
+layout: default
+---
+
 An AI image generation bot with over **80** machine-learning AI models built on the back of the stable horde!
+
+> Simple how-to-use:
+>
+> /imagine <prompt> - to generate an image
+>
+> /imagine <url, prompt> - generate an image based off of a source image
+>
+> /riff <prompt> <image> <strength> - generate an image with a given prompt, source image, and strength(percentage resemblence to the source image)
 
 _A feature-rich async generation discord bot with image editing, enhancement, and generation, all in a free unlimited package with **NO** paid plans, with freedom explore an array of free open-source AI models._
 
-
+# Add the bot [here](https://discord.com/application-directory/1055984654743777392)
+# Join the support server [here](https://discord.gg/vnfZvWmDJX)
 
 # Open source AI generations
 It's not like midjourney, but its close, and provides great images without needing any experience. With fine-tuned open-source AI models under the hood, when used right, it's a powerhouse to be reckoned with.
@@ -11,18 +24,17 @@ It's not like midjourney, but its close, and provides great images without needi
 Simply mark the channel as nsfw to turn the filter off
 
 As a solo developer, the discord bot has been my passion project for a while, and I'm so happy to finally release it
->  Note that AI img2img is currently unsupported, but coming soon!
-
+>  Note that AI img2img is now fully supported with /riff - so go wild!
 
 
 |        | Midjourney        | BlueWillow | QuackertonAI |
 |:-------------|:------------------|:------| :----------- |
 | Fast generation |✅ | ✅ | ✅|
-|Quality Images | ✅  | <input type="checkbox" />| ✅ |
-| Completely free| <input type="checkbox"  /> | ✅|✅ |
-|Sketchy hacked-together code| <input type="checkbox"  /> | ✅|
-|Uncensored and free |<input type="checkbox" /> |<input type="checkbox"/> |✅ |
-|Facial Redo|<input type="checkbox"  /> |<input type="checkbox"  /> |✅|
+|Quality Images | ✅  |  | ✅ |
+| Completely free|  | ✅|✅ |
+|Sketchy hacked-together code| | | ✅|
+|Uncensored and free | | |✅ |
+|Facial Redo|| |✅|
 
 ### Features
 *   Image captioning
@@ -31,6 +43,8 @@ As a solo developer, the discord bot has been my passion project for a while, an
 *   Open-source
 *   Error reporting to end user
 *   Facial redo
+
+
 ### TODO
 - Improve code performance
   - Extract out code and remove reused bits
@@ -43,8 +57,10 @@ As a solo developer, the discord bot has been my passion project for a while, an
     - better outpainting
     - fix /riff
     
-> Contract Folltrace#1337 on discord for any help
+> Contract @ace_beaker on discord for any help
+
 > [**Terms Of Service**](./tos.html)
+> [**Privacy Policy**](./pp.html)
 
 ![Man working on a glass jar](https://media.discordapp.net/attachments/1077363471617904650/1102991819991683082/f5988f6d-3a42-4842-9bd2-4c35ba744e8c_3.png?width=786&height=786)
 ![Nightclub person](https://media.discordapp.net/attachments/1077363471617904650/1098804010405867550/9148d10d-829e-42cc-8034-aa6967ebd922.png?width=856&height=856)
