@@ -6,7 +6,8 @@ An AI image generation bot with over **80** machine-learning AI models built on 
 
 _A feature-rich async generation discord bot with image editing, enhancement, and generation, all in a free unlimited package with **NO** paid plans, with freedom explore an array of free open-source AI models._
 
-# Add the bot [here](https://top.gg/bot/1055984654743777392/invite)
+# Add the bot [here](https://discord.com/application-directory/1055984654743777392)
+# Join the support server [here](https://discord.gg/vnfZvWmDJX)
 
 # Open source AI generations
 It's not like midjourney, but its close, and provides great images without needing any experience. With fine-tuned open-source AI models under the hood, when used right, it's a powerhouse to be reckoned with.
@@ -18,15 +19,14 @@ As a solo developer, the discord bot has been my passion project for a while, an
 >  Note that AI img2img is currently unsupported, but coming soon!
 
 
-
 |        | Midjourney        | BlueWillow | QuackertonAI |
 |:-------------|:------------------|:------| :----------- |
-| Fast generation |<input type="checkbox" checked /> | <input type="checkbox"  checked /> | <input type="checkbox" checked /> |
-|Quality Images | <input type="checkbox"  checked />   | <input type="checkbox" />| <input type="checkbox"  checked /> |
-| Completely free| <input type="checkbox"  /> | <input type="checkbox" checked />|<input type="checkbox"  checked /> |
-|Sketchy hacked-together code| <input type="checkbox"  /> | <input type="checkbox"/>| <input type="checkbox"  checked />|
-|Uncensored and free |<input type="checkbox" /> |<input type="checkbox"/> |<input type="checkbox"  checked /> |
-|Facial Redo|<input type="checkbox"  /> |<input type="checkbox"  /> |<input type="checkbox"  checked /> |
+| Fast generation |✅ | ✅ | ✅|
+|Quality Images | ✅  |  | ✅ |
+| Completely free|  | ✅|✅ |
+|Sketchy hacked-together code| | | ✅|
+|Uncensored and free | | |✅ |
+|Facial Redo|| |✅|
 
 ### Features
 *   Image captioning
