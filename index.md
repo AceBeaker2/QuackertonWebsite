@@ -4,6 +4,12 @@ layout: default
 
 An AI image generation bot with over **80** machine-learning AI models built on the back of the stable horde!
 
+> Simple how-to-use:
+>
+> /imagine <prompt> - to generate an image
+> /imagine <url, prompt> - generate an image based off of a source image
+> /riff <prompt> <image> <strength> - generate an image with a given prompt, source image, and strength(percentage resemblence to the source image)
+
 _A feature-rich async generation discord bot with image editing, enhancement, and generation, all in a free unlimited package with **NO** paid plans, with freedom explore an array of free open-source AI models._
 
 # Add the bot [here](https://discord.com/application-directory/1055984654743777392)
@@ -16,7 +22,7 @@ It's not like midjourney, but its close, and provides great images without needi
 Simply mark the channel as nsfw to turn the filter off
 
 As a solo developer, the discord bot has been my passion project for a while, and I'm so happy to finally release it
->  Note that AI img2img is currently unsupported, but coming soon!
+>  Note that AI img2img is now fully supported with /riff - so go wild!
 
 
 |        | Midjourney        | BlueWillow | QuackertonAI |
