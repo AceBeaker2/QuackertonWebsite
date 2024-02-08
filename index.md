@@ -7,7 +7,9 @@ An AI image generation bot with over **80** machine-learning AI models built on 
 > Simple how-to-use:
 >
 > /imagine <prompt> - to generate an image
+>
 > /imagine <url, prompt> - generate an image based off of a source image
+>
 > /riff <prompt> <image> <strength> - generate an image with a given prompt, source image, and strength(percentage resemblence to the source image)
 
 _A feature-rich async generation discord bot with image editing, enhancement, and generation, all in a free unlimited package with **NO** paid plans, with freedom explore an array of free open-source AI models._
