@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Site is live at [quackertonai.com](https://www.quackertonai.com/)!
+
 An AI image generation bot with over **80** machine-learning AI models built on the back of the stable horde!
 
 > Simple how-to-use:
